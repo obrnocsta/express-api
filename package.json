@@ -1,0 +1,25 @@
+{
+  "name": "express-api",
+  "version": "1.0.0",
+  "description": "A simple API from scratch building with Express.js",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node --watch server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/obrnocsta/express-api.git"
+  },
+  "keywords": [],
+  "author": "Bruno Costa",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/obrnocsta/express-api/issues"
+  },
+  "homepage": "https://github.com/obrnocsta/express-api#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
